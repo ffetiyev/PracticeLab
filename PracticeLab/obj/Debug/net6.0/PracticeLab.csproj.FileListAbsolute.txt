@@ -1,0 +1,15 @@
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\bin\Debug\net6.0\PracticeLab.exe
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\bin\Debug\net6.0\PracticeLab.deps.json
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\bin\Debug\net6.0\PracticeLab.runtimeconfig.json
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\bin\Debug\net6.0\PracticeLab.dll
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\bin\Debug\net6.0\PracticeLab.pdb
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.csproj.AssemblyReference.cache
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.AssemblyInfoInputs.cache
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.AssemblyInfo.cs
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.csproj.CoreCompileInputs.cache
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.dll
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\refint\PracticeLab.dll
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.pdb
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\PracticeLab.genruntimeconfig.cache
+C:\Users\faridhf\source\repos\PracticeLab\PracticeLab\obj\Debug\net6.0\ref\PracticeLab.dll
