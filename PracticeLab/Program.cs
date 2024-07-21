@@ -224,22 +224,44 @@
 //Console.WriteLine(AverageNumber(arr));
 
 
-static int Ekob(int a, int b)
-{
-   int m = 0;
-    for (int i = 1; i < a*b; i++)
-   {
-     if (i % a == 0 && i % b == 0)
-      {
+//static int Ekob(int a, int b)
+//{
+//   int m = 0;
+//    for (int i = 1; i < a*b; i++)
+//   {
+//     if (i % a == 0 && i % b == 0)
+//      {
+//            i = m;
+//            break;
             
-            break;
-            
-      }
+//      }
         
-   }
-i = m;
-    return m;
+//   }
+
+//    return m;
+//}
+//int a = 3;
+//int b = 4;
+//Console.WriteLine(Ekob(a, b));
+
+static int Ebob(int a, int b)
+{
+    int max=1;
+    for (int i = 2; i < a; i++)
+    {
+        if(a%i == 0 && b % i == 0)
+        {
+            max = i;
+            break;
+        }
+        else
+        {
+            max = 1;
+        }
+    }
+    return max;
 }
+
 int a = 3;
-int b = 4;
-Console.WriteLine(Ekob(a, b));
+int b = 9;
+Console.WriteLine(Ebob(a, b));
